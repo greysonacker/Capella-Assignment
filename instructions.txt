@@ -1,0 +1,7 @@
+User Manual:
+Click on a circle on the turtle graphics screen to place a piece. Alternate each player until both have 4 pieces on the board. Once each player has 4 pieces, click one of your current pieces to remove it and click an adjacent circle to replace it.You cannot remove another player's piece or replace the piece on a non-adjacent circle. If a player wins by creating a line or a square, a text message will appear and an audio clip will play. Click on the screen to close it and restart the code to play again.
+
+Game Options:
+Type 'y' or 'n' at beginning to hear and see the user manual/instructions
+Click on a circle to place or remove a piece
+click on the red "STOP" square to end the game early
